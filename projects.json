@@ -1,0 +1,20 @@
+[
+  {
+    "name": "CHMER",
+    "description": "CHess prograMER: A custom programming environment for chess engines and analysis.",
+    "link": "https://opensource.hsrprojects.org/projects/chmer",
+    "tags": ["Chess", "Programming", "AI"]
+  },
+  {
+    "name": "Chess Games",
+    "description": "A collection of chess games and tools for enthusiasts and grandmasters.",
+    "link": "https://opensource.hsrprojects.org/projects/chess-games",
+    "tags": ["Chess", "Games"]
+  },
+  {
+    "name": "Pacman Games",
+    "description": "Classic Pacman-inspired games with futuristic UI and game mechanics.",
+    "link": "https://opensource.hsrprojects.org/projects/pacman-games",
+    "tags": ["Games", "Fun", "Arcade"]
+  }
+]
